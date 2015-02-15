@@ -1,0 +1,15 @@
+
+public class FirstApp {
+
+	public static void main(String[] args) {
+		//System.out.println("Hello World");
+		int myNumber; //this is a variable, its like a space or box where data like integers can be stored. 
+						//... it is also called declaring of a variable
+		myNumber = 88; // this initializing the variable myNumber to the value 88
+		
+			System.out.println(myNumber);
+		
+	
+	}
+
+}

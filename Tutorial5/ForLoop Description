@@ -1,0 +1,7 @@
+A for Loop requires 3 different conditions,
+first condition is to initialize and declare the the loop e.g. int i = 0;
+then 2nd condition is to determine how many loops are required or the condition of the loop, e.g i < 5 (provides 5 loops)
+final condition is to create a count/increment system to know when to stop e.g i = i + 1;
+a complete for loop should look like this
+for(i = 0; i < 5; i = i +1)
+a shortcut for the count/increment is i++

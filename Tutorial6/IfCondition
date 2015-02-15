@@ -1,0 +1,9 @@
+note:
+assigning equality is different from testing for equality
+assigning is set something to be something. e.g i = 1
+test for equality is to see if something is the same as another object e.g 5==5
+assigning is due with a single equal sign
+testing is done with double equal sign
+
+if statements are mutually exclusive. This means that if the first condition is true
+then it ignores the rest of the else/else if condition.

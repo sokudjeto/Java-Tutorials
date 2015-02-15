@@ -1,0 +1,11 @@
+
+public class LoopApp {
+	public static void main(String[] args) {
+		
+		boolean loop = 6 < 1;
+		
+		System.out.println(loop);
+		
+	}
+}
+ 

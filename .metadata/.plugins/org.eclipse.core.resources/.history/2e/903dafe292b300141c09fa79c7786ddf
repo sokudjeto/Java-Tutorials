@@ -1,0 +1,12 @@
+public class IfandWhileApp {
+	public static void main(String[] args) {
+
+		int loop = 0;
+		while(true){
+			
+			System.out.println("Looping :"+ loop);
+			
+			loop++;
+		}
+	}
+}

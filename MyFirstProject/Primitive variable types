@@ -1,0 +1,9 @@
+Java has 8 primitive types of variables
+the variable int is a 32 bit variable in java
+the variable short is a 16 bit variable type in java, does not hold as much as int
+another variable is long, it holds more values and its 64 bit
+double is used for double precision, like decimals
+a float is a short version of double, but java by default uses double, to indicate float, u must end the value with an "f"
+the char variable holds characters
+the boolean variable holds only 2 values; either a true/false or yes or no.
+the last one is byte, which holds 8 bytes of data or +-127 (128-1) digit, useful to hold an array of data which u want to know the load
